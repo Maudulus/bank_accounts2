@@ -36,3 +36,4 @@ end
 
 accounts[0].summary
 accounts[1].summary
+git remote set-url origin git://github.com/Modsky1/bank_accounts2
